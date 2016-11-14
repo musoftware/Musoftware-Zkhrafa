@@ -1,0 +1,60 @@
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frmmain.resources
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbproj.GenerateResource.Cache
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Helpers.dll
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Helpers.pdb
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Helpers.xml
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbprojResolveAssemblyReference.cache
+F:\Musoftware\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe.config
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe.config
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.pdb
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.xml
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Helpers.dll
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Helpers.pdb
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\bin\Debug\Helpers.xml
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbprojResolveAssemblyReference.cache
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.Frmmain.resources
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.Resources.resources
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbproj.GenerateResource.Cache
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.exe
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.xml
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.pdb
+F:\123NewLive\زخرفة\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.FrmTable.resources
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe.config
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.exe
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.xml
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.pdb
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.pdb
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.xml
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Helpers.dll
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Helpers.pdb
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Helpers.xml
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbprojResolveAssemblyReference.cache
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.Frmmain.resources
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.FrmTable.resources
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.Resources.resources
+F:\123NewLive\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbproj.GenerateResource.Cache
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe.config
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.exe
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.xml
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.pdb
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.exe
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.pdb
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Musoftware Za.xml
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Helpers.dll
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Helpers.pdb
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\bin\Debug\Helpers.xml
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbprojResolveAssemblyReference.cache
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.Frmmain.resources
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.FrmTable.resources
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\MusoftwareZa.Resources.resources
+F:\123NewLive\TEXT OFFICE\Musoftware Zkhrafa\زخرفة\WindowsApplication1\obj\x86\Debug\Musoftware Za.vbproj.GenerateResource.Cache
